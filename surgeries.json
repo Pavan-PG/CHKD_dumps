@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "5f7ec183b7d7081497d1494d"
+  },
+  "id": "i7l0n4KYI",
+  "type": "Adenotonsillectomy Surgery",
+  "date": "10/29/2020",
+  "time": "3:05:00 AM",
+  "surgeon": "Surgeon 4",
+  "patient": "Patient 4",
+  "patientAge": "98",
+  "prescription": "Sample 4",
+  "instructions": "Instructions sample 5",
+  "venue": "chkd op2",
+  "createdAt": {
+    "$date": "2020-10-08T07:36:35.013Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T07:36:35.013Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7fd1ba2ba68f2ef32f3dcc"
+  },
+  "id": "jKuMk7YC6",
+  "type": "Orthopedic Surgery",
+  "date": "10/23/2020",
+  "time": "9:10:00 PM",
+  "venue": "chkd op1",
+  "surgeon": "Surgeon 1",
+  "patient": "Patient 1",
+  "patientAge": "23",
+  "prescription": "Sample",
+  "instructions": "",
+  "createdAt": {
+    "$date": "2020-10-09T02:58:02.653Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-09T02:58:02.653Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f814434eb9da6551fb47ad0"
+  },
+  "id": "Fxe2kmriM",
+  "type": "Orthopedic Surgery",
+  "date": "10/15/2020",
+  "time": "2:20:00 PM",
+  "venue": "chkd op1",
+  "surgeon": "Surgeon 1",
+  "patient": "Patient 1",
+  "patientAge": "23",
+  "prescription": "",
+  "instructions": "",
+  "createdAt": {
+    "$date": "2020-10-10T05:18:44.886Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-14T14:53:42.281Z"
+  },
+  "__v": 0
+}]

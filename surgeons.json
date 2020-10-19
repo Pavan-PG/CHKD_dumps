@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "5f8549263b38f736df4331be"
+  },
+  "id": "m2qz26uzQ",
+  "fname": "Surgeon",
+  "lname": "1",
+  "email": "surgeon1@gmail.com",
+  "contact": "8549860223",
+  "createdAt": {
+    "$date": "2020-10-13T06:28:54.678Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T06:28:54.678Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f855ae6f195f43800487150"
+  },
+  "id": "s2uqCmoDF",
+  "fname": "Surgeon",
+  "lname": "2",
+  "email": "surgeon2@gmail.com",
+  "contact": "8050825267",
+  "createdAt": {
+    "$date": "2020-10-13T07:44:38.428Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T07:44:38.428Z"
+  },
+  "__v": 0
+}]

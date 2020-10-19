@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "5f849d797195d52d7afcc535"
+  },
+  "prep": [
+    {
+      "question": "The Week Before",
+      "answer": "Is your child taking any of the following medicines? If yes, please discuss them with your surgeon before and after surgery:\nAspirin\nCoumadin®\nCelebrex®\nIbuprofen (Advil®, Motrin®)\nNaprosyn (Aleve®)\nPlavix®\nSome over the counter herbs (chondroitin, dan shen, feverfew, garlic tablets, ginger tablets, ginkgo, ginseng and quilinggao and fish oil)"
+    },
+    {
+      "question": "The Night Before",
+      "answer": "Make sure your child takes a bath or shower and be sure to shampoo hair.\nAfter bathing, dress your child in freshly washed pajamas. Put clean sheets on the bed. These are important steps to help prevent infection."
+    },
+    {
+      "question": "The Day Of Procedure ",
+      "answer": "Have your child brush their teeth using water only. No toothpaste.\nPlace your child’s hair in a ponytail or pigtails. No metal in hair ties or fasteners.\nPark in the parking lot and come directly into the main entrance of the building. Our Guest Services team will direct you to the Surgery/Procedure Center in Suite 1E.\nCheck in at the registration desk and have a seat in our waiting area. A nurse will walk you to a private room in the preoperative area. Please limit the number of visitors with each patient.\nThe surgical team will meet with you and talk about your child’s procedure and anesthesia plan.\nYour child may need an IV before surgery. Numbing medicine is used to start the IV. See the  IV insertion video. A Child Life Specialist will be available to patients and families. They develop ways to cope with fear, anxiety, and separation by using play, music, art, and education techniques.\nYour child may receive a patch to prevent nausea or vomiting. It is placed behind the ear. You will be instructed to remove patch on the 3rd day after surgery.\nBefore the procedure, girls 9 years of age and older may be asked to give a urine sample for pregnancy screening."
+    }
+  ],
+  "visit": [
+    {
+      "question": "During the Procedure",
+      "answer": "Parents and family members are welcome to wait in our waiting room.\nDuring the procedure, updates will be sent via message through the App.\nAfter surgery, your child will return to a room and be monitored closely.\nYour child’s doctor will talk with you about the procedure and recovery time in a consult room. After, you will return to the waiting area until you’re called to the recovery area.\nMost children spend about an hour at the CSCC after their procedure. Some children may stay longer based on recovery time and procedure."
+    },
+    {
+      "question": "Questions to ask your surgeon after the procedure:",
+      "answer": "When should the dressing be removed?\nWhen can my child bathe, shower, or swim?\nWhat is my child's weight-bearing status?\nWill my child be using crutches? For how long? This crutch training video may be useful.\nWill my child require physical therapy?\nWhen can my child return to school/daycare?\nWhen can my child return to gym/recess/contact sports?\nWhen can my teenager drive?"
+    }
+  ],
+  "homeCare": [
+    {
+      "question": "Swelling:",
+      "answer": "Swelling can happen after surgery. You can use pillows to elevate your child's leg/foot so the surgical site is above the level of the heart. Do this as much as possible to reduce the swelling and pain after surgery.\nApply a waterproof ice pack over your child's dressing/splint for 20 minutes each hour for the first few days while awake. This will also help reduce swelling and pain."
+    },
+    {
+      "question": "Pain Medicine:",
+      "answer": "Pain is a normal part of the recovery after surgery. The pain medicine given to your child will help to reduce the pain, but will not completely eliminate it.\nRemember to elevate your child's leg/foot (as instructed above), if your child has pain.\nPain should decrease over the first few days after surgery. This will allow your child to:\ntake less pain medicine or\nstop taking all pain medicine or\nincrease the time between doses of pain medicine.\nRequests for prescription refills must be called to the office (NOT the medical exchange service) on Monday-Friday from 8:00-4:00, excluding holidays."
+    },
+    {
+      "question": "Activities:",
+      "answer": "Resting the foot lessens swelling and allows the injury to heal.\nAs your child becomes more active, you may see swelling in his or her toes again. Apply ice and elevate.\nFollow the surgeon’s instructions for return to school/daycare and gym class/sports."
+    },
+    {
+      "question": "Dressing/Wound Care:",
+      "answer": "Keep the dressing, cast or splint dry. Cover it with a plastic bag when your child bathes or showers. Try to make the wrapping water-tight.\nFollow the surgeon’s instructions regarding dressing/splint/cast care, bathing and/or showering."
+    },
+    {
+      "question": "Cast Care (if applicable):",
+      "answer": "Check the skin around the cast every day.\nDo not remove the cast yourself. Your child's doctor will remove the cast with a special tool when it is time to take the cast off.\nDo not break off rough edges of the cast or trim the cast.\nDo not put any objects inside the cast to scratch.\nDo not apply powders or deodorants to itchy skin."
+    }
+  ],
+  "concern": [
+    {
+      "question": "For Emergencies",
+      "answer": "Call 911 If:\nYour child has a very hard time breathing or is struggling to breathe.\nUnable to speak or cry because of trouble breathing.\nLips or fingernails are turning blue or white.\nYou are not able to wake your child.\nYou think your child has a life-threatening emergency."
+    },
+    {
+      "question": "For Non-emergencies (such as the symptoms listed below):",
+      "answer": "Call (314) 454-3250 during weekdays, between 7:00 am and 4:00 pm.\nCall (314) 454-6000 after 4:00 pm weekdays and on weekends. Ask for the Orthopedic resident on call.\nYou think your child needs to be seen or you need to speak to a doctor.\nVomits more than 3 times after discharge.\nYou feel your child is dehydrated. Signs are:\nNo urine in 8 to 12 hours, or\nYour child's mouth is very dry, or\nNo tears when your child cries.\n"
+    },
+    {
+      "question": "Call the orthopedic office for any of the following:",
+      "answer": "Excessive pain not relieved by rest, elevation and pain medicine\nFeeling that the cast is too tight even after elevating foot, and the orthopedic clinic is closed\nCast/splint becomes too loose and the leg moves around inside of it\nAnything stuck inside the cast/splint\nFoul odor from the dressing/wound\nA temperature greater than 101.5°F (38.6°C) or chills\nToes that are still cold and bluish, purple or grey after you've tried:\nelevating the leg,\napplying ice, and/or\nloosening the splint for 20 minutes\nNew or different numbness that does not go away\nCast gets damaged, breaks or gets very wet"
+    }
+  ],
+  "videos": [],
+  "type": "Orthopedic Surgery",
+  "description": "A fracture is a broken bone. Fractures usually heal in 6 to 8 weeks. Healing time can vary from person to person. Closed reduction is a surgery to set or reduce a broken bone or bones. This allows the bone to grow back together.",
+  "followUp": "Call the Orthopedic office at (314) 454-2500 to schedule a follow-up visit. Physical therapy and driving instructions will be discussed at this visit.",
+  "createdAt": {
+    "$date": "2020-10-12T18:16:25.907Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T18:16:25.907Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f849fa87195d52d7afcc536"
+  },
+  "prep": [
+    {
+      "question": "The Night Before",
+      "answer": "Make sure your child takes a bath or shower and be sure to shampoo hair.\nAfter bathing, dress your child in freshly washed pajamas. Put clean sheets on the bed. These are important steps to help prevent infection.\nMake sure your child removes all nail polish, artificial nails, jewelry and make-up"
+    },
+    {
+      "question": "The Day Of Procedure",
+      "answer": "Have your child brush their teeth using water only. No toothpaste.\nPlace your child’s hair in a ponytail or pigtails. No metal in hair ties or fasteners.\nPark in the parking lot and come directly into the main entrance of the building. Our Guest Services team will direct you to the Surgery/Procedure Center in Suite 1E.\nCheck in at the registration desk and have a seat in our waiting area. A nurse will walk you to a private room in the preoperative area. Please limit the number of visitors with each patient.\nThe surgical team will meet with you and talk about your child’s procedure and anesthesia plan.\nYour child may need an IV before surgery. Numbing medicine is used to start the IV. See the  IV insertion video. A Child Life Specialist will be available to patients and families. They develop ways to cope with fear, anxiety, and separation by using play, music, art, and education techniques.\nBefore the procedure, girls 9 years of age and older may be asked to give a urine sample for pregnancy screening."
+    }
+  ],
+  "visit": [
+    {
+      "question": "During the Procedure",
+      "answer": "Parents and family members are welcome to wait in our waiting room.\nDuring the procedure, updates will be sent via message through the App.\nAfter surgery, your child will return to a room and be monitored closely.\nYour child’s doctor will talk with you about the procedure and recovery time in a consult room. After, you will return to the waiting area until you’re called to the recovery area.\nMost children spend about an hour at the CSCC after their procedure. Some children may stay longer based on recovery time and procedure.\n"
+    },
+    {
+      "question": "Questions",
+      "answer": "Your child’s doctor will talk with you about the procedure and recovery time in a consult room. After, you will return to the waiting area until you’re called to the recovery area."
+    }
+  ],
+  "homeCare": [
+    {
+      "question": "Pain:",
+      "answer": "Acetaminophen (Tylenol) can be given. See the Acetaminophen (Tylenol) Dosage Table. Ibuprofen (Motrin/Advil) can be given if your child is 6 months of age or older. See the Ibuprofen (Motrin/Advil) Dosage Table. Alternate Acetaminophen and Ibuprofen for the first 24 hours as directed by your child's doctor. Caution: Acetaminophen (Tylenol) can be found in many prescriptions and over-the-counter medicines. Read the labels to be sure your child is not getting it from 2 products. If you have questions, call your child’s doctor. Do not give more than 5 doses of acetaminophen (Tylenol) in 24 hours."
+    },
+    {
+      "question": "Bleeding",
+      "answer": " It is common to have some bloody tears or bloody drainage from the nose for the first two days after surgery."
+    }
+  ],
+  "concern": [
+    {
+      "question": "For Emergencies",
+      "answer": "Call 911 If:\nYour child has a very hard time breathing or is struggling to breathe.\nUnable to speak or cry because of trouble breathing.\nLips or fingernails are turning blue or white.\nYou are not able to wake your child.\nYou think your child has a life-threatening emergency."
+    },
+    {
+      "question": "For Non-emergencies (such as the symptoms listed below):",
+      "answer": "Call (314) 454-3250 during weekdays, between 7:00 am and 4:00 pm.\nCall (314) 454-6000 after 4:00 pm weekdays and on weekends. Ask for the Eye resident on call.\nSymptoms:\nA temperature greater than 101.5°F (38.6°C).\nSwelling or redness around the surgical area.\nVomits more than 3 times after discharge.\nYou feel your child is dehydrated. Signs are:\nNo urine in 8 to 12 hours, or\nYour child's mouth is very dry, or\nNo tears when your child cries.\nPain is not relieved by medicine.\nYou think your child needs to be seen or you need to speak to a doctor.\nQuestions about medicine.\nFor questions and concerns."
+    }
+  ],
+  "videos": [],
+  "type": "Inguinal Hernia",
+  "description": "Blocked tear ducts are common in babies. Many children are born with immature tear ducts. This can lead to overflow tearing and infection. The tear duct may open on its own by the time your child is 6 months old. If the symptoms last after 6 months of age, your child may need to see a pediatric eye doctor for a procedure to open the duct",
+  "followUp": "Call the Eye Center at (314) 454-6026 to schedule a follow-up visit, if instructed by the surgeon.",
+  "createdAt": {
+    "$date": "2020-10-12T18:25:44.166Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T18:25:44.166Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f84a1b77195d52d7afcc537"
+  },
+  "prep": [
+    {
+      "question": "The Night Before ",
+      "answer": "Make sure your child takes a bath or shower and be sure to shampoo hair.\nAfter bathing, dress your child in freshly washed pajamas. Put clean sheets on the bed. These are important steps to help prevent infection.\nMake sure your child removes all nail polish, artificial nails, jewelry and make-up."
+    },
+    {
+      "question": "The Day Of Procedure",
+      "answer": "Have your child brush their teeth using water only. No toothpaste.\nPlace your child’s hair in a ponytail or pigtails. No metal in hair ties or fasteners.\nPark in the parking lot and come directly into the main entrance of the building. Our Guest Services team will direct you to the Surgery/Procedure Center in Suite 1E.\nCheck in at the registration desk and have a seat in our waiting area. A nurse will walk you to a private room in the preoperative area. Please limit the number of visitors with each patient.\nThe surgical team will meet with you and talk about your child’s procedure and anesthesia plan.\nYour child may need an IV before surgery. Numbing medicine is used to start the IV. See the  IV insertion video. A Child Life Specialist will be available to patients and families. They develop ways to cope with fear, anxiety, and separation by using play, music, art, and education techniques.\nBefore the procedure, girls 9 years of age and older may be asked to give a urine sample for pregnancy screening."
+    }
+  ],
+  "visit": [
+    {
+      "question": "During the Procedure ",
+      "answer": "Parents and family members are welcome to wait in our waiting room.\nDuring the procedure, updates will be sent via message through the App.\nAfter surgery, your child will return to a room and be monitored closely.\nYour child’s doctor will talk with you about the procedure and recovery time in a consult room. After, you will return to the waiting area until you’re called to the recovery area.\nMost children spend about an hour at the CSCC after their procedure. Some children may stay longer based on recovery time and procedure."
+    },
+    {
+      "question": "Questions",
+      "answer": "Most children spend about an hour at the CSCC after their procedure. Some children may stay longer based on recovery time and procedure."
+    }
+  ],
+  "homeCare": [
+    {
+      "question": "Pain:",
+      "answer": "Acetaminophen (Tylenol) can be given. See the Acetaminophen (Tylenol) Dosage Table. An ice bag to the neck may also be used for pain. Caution: Acetaminophen (Tylenol) can be found in many prescriptions and over-the-counter medicines. Read the labels to be sure your child is not getting it from 2 products. If you have questions, call your child’s doctor. Do not give more than 5 doses of acetaminophen (Tylenol) in 24 hours."
+    },
+    {
+      "question": "Encourage fluids",
+      "answer": "Water, Gatorade, soda, slushies, ice cream, Jell-O, or soup. Take large swallows of fluid. Lukewarm fluids will be easiest to swallow."
+    }
+  ],
+  "concern": [
+    {
+      "question": "For Emergencies",
+      "answer": "Your child has a very hard time breathing or is struggling to breathe.\nUnable to speak or cry because of trouble breathing.\nLips or fingernails are turning blue or white.\nYou are not able to wake your child.\nYour child has nonstop bleeding.\nYou think your child has a life threatening emergency."
+    },
+    {
+      "question": "For Non-emergencies (such as the symptoms listed below):",
+      "answer": "Call (314) 454-3250 during weekdays, between 7:00 am and 4:00 pm.\nCall (314) 454-6000 after 4:00 pm weekdays and on weekends. Ask for the ENT resident on call.\nSymptoms:\nContinued bleeding from the nose or mouth.\nEar drainage that lasts for more than 10 days.\nA temperature greater than 101.5°F (38.6°C)\nVomits more than 3 times after discharge.\nYou feel your child is dehydrated. Signs are:\nNo urine in 8 to 12 hours, or\nYour child's mouth is very dry, or\nNo tears when your child cries.\nPain is not relieved by medicine.\nYou think your child needs to be seen or you need to speak to a doctor.\nQuestions about medicine.\nFor questions and concerns."
+    }
+  ],
+  "videos": [],
+  "type": "Adenotonsillectomy",
+  "description": "Tonsils are small, oval pieces of tissue that are located in the back of the mouth. They are thought to help fight infections.\nAdenoids are similar to tonsils. They are located in the space above the soft roof of the mouth. They cannot be seen by looking in your child’s nose or throat. Adenoids also help to fight infections, but may cause problems if they become swollen or infected.",
+  "followUp": "Call the Otolaryngology office at (314) 454-6162 to schedule a follow-up visit for 4 to 6 weeks after surgery.",
+  "createdAt": {
+    "$date": "2020-10-12T18:34:31.679Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T18:34:31.679Z"
+  },
+  "__v": 0
+}]

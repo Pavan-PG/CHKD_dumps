@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "5f837e34ae20430e3649603a"
+  },
+  "id": "5pRQuKDyb",
+  "fname": "Likitha",
+  "lname": "N",
+  "dob": "2004-01-28T18:30:00.000Z",
+  "email": "likitha.nmurthy@gmail.com",
+  "contact": "8549860223",
+  "role": "Patient",
+  "password": "zBQuC_G5m2-X",
+  "createdAt": {
+    "$date": "2020-10-11T21:50:44.332Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-11T21:50:44.332Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8380bdae20430e3649603b"
+  },
+  "id": "iLf2jbNcY",
+  "fname": "Shreyas ",
+  "lname": "Gujjar",
+  "dob": "1998-09-28T18:30:00.000Z",
+  "email": "shreyas.shivajirao@gmail.com",
+  "contact": "8050825266",
+  "role": "Pre-op Co-ordinator",
+  "password": "11UCOvg8c1D2",
+  "createdAt": {
+    "$date": "2020-10-11T22:01:33.632Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-11T22:01:33.632Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f87c8c9adfbf13e3b756886"
+  },
+  "id": "PkvFZo6FU",
+  "fname": "Udith",
+  "lname": "Prabhu",
+  "dob": "2020-10-08T18:30:00.000Z",
+  "email": "uprab001@odu.edu",
+  "contact": "8956639909",
+  "role": "Admin",
+  "password": "vmMuM3j9-n7x",
+  "createdAt": {
+    "$date": "2020-10-15T03:58:01.257Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T03:58:01.257Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f89cc3373eb04630ae3c346"
+  },
+  "id": "ehdeaH8Gx",
+  "fname": "Thrupthi",
+  "lname": "N",
+  "dob": "2020-10-15T18:30:00.000Z",
+  "email": "thrupthin.murthy@gmail.com",
+  "contact": "8549860223",
+  "role": "Admin",
+  "password": "TYqqLGSGqFI4",
+  "createdAt": {
+    "$date": "2020-10-16T16:37:08.007Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T16:37:08.007Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f89d73c0856b963a7561bc5"
+  },
+  "id": "k0Ze3DXQD",
+  "fname": "Ajay",
+  "lname": "Gupta",
+  "dob": "2020-10-09T18:30:00.000Z",
+  "email": "ajay@cs.odu.edu",
+  "contact": "8549123284",
+  "role": "Admin",
+  "password": "Pu4omAMsZ5_F",
+  "createdAt": {
+    "$date": "2020-10-16T17:24:12.835Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T17:24:12.835Z"
+  },
+  "__v": 0
+}]

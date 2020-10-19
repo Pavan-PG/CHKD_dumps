@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "5f813e5b2d176eda07587e07"
+  },
+  "type": "venue",
+  "kywds": [
+    "chkd op1",
+    "chkd op2",
+    "chkd op3",
+    "chkd op4"
+  ]
+}]
